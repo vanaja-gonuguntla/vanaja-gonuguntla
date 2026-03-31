@@ -54,7 +54,7 @@ https://github.com/vanaja-gonuguntla/customer-purchase-behavior-analysis
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vanaja-gonuguntla&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vanaja-gonuguntla&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ---
